@@ -1,0 +1,2 @@
+https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/
+https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/description/
